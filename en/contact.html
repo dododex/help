@@ -1,1 +1,28 @@
-test
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Redirect</title>
+        <script>
+            document.addEventListener("DOMContentLoaded", function() {
+                var oldQueryString = window.location.search.substring(1); // Get query string, remove '?'
+                var params = new URLSearchParams(oldQueryString);
+
+                // Change 'multiplier' to 'tamingMultiplier'
+                if (params.has('multiplier')) {
+                    var multiplierValue = params.get('multiplier');
+                    params.delete('multiplier');
+                    params.set('tamingMultiplier', multiplierValue);
+                }
+
+                // Construct the new URL
+                var newUrl = 'https://www.dododex.com/report?' + params.toString();
+
+                // Redirect to the new URL
+                window.location.replace(newUrl);
+            });
+        </script>
+    </head>
+    <body>
+        Redirecting...
+    </body>
+</html>
