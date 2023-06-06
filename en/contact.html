@@ -13,6 +13,12 @@
                     params.delete('multiplier');
                     params.set('tamingMultiplier', multiplierValue);
                 }
+                // change 'dododex-platform' to 'platform'
+                if (params.has('dododex-platform')) {
+                    var platformValue = params.get('dododex-platform');
+                    params.delete('dododex-platform');
+                    params.set('platform', platformValue);
+                }
 
                 // Construct the new URL
                 var newUrl = 'https://www.dododex.com/report?' + params.toString();
