@@ -1,6 +1,7 @@
 ---
 layout: faq
 title: What is Dododex Pro
+category: dododex-pro
 permalink: /faq/what-is-dododex-pro
 ---
 
