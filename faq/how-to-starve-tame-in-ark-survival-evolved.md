@@ -1,7 +1,7 @@
 ---
 layout: faq
 title: How To Starve Tame in ARK: Survival Evolved
-category: guide
+category: guides
 ---
 
 # What is Starve Taming?

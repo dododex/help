@@ -1,5 +1,8 @@
-Dododex App Not Loading: Steps To Resolve
-=========================================
+---
+layout: faq
+title: Dododex App Not Loading: Steps To Resolve
+category: bugs
+---
 
 > If your Dododex App on iOS or Android is not loading, please try the following steps to resolve the issue.
 

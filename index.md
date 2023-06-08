@@ -22,11 +22,18 @@ hideHeading: true
   {% endif %}
 {% endfor %}
 
-## ARK Survival Evolved Guides
+## Dododex Bugs
 
 {% for page in site.pages %}
-  {% if page.category == 'guide' %}
+  {% if page.category == 'bugs' %}
 - [{{ page.title }}]({{ page.url | relative_url }})
   {% endif %}
 {% endfor %}
 
+## ARK Survival Evolved Guides
+
+{% for page in site.pages %}
+  {% if page.category == 'guides' %}
+- [{{ page.title }}]({{ page.url | relative_url }})
+  {% endif %}
+{% endfor %}

@@ -1,7 +1,7 @@
 ---
 layout: faq
 title: Can the Doedicurus Gather Obsidian?
-category: guide
+category: guides
 ---
 
 The Doedicurus can gather Obsidian, but only on specific rocks. Other creatures, such as the Ankylosaurus and Magmasaur are able to gather Obsidian from *all *Obsidian rocks.
