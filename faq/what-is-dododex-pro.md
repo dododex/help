@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: faq
 title: What is Dododex Pro
 permalink: /faq/what-is-dododex-pro
 ---
