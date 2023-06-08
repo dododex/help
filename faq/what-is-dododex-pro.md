@@ -2,7 +2,6 @@
 layout: faq
 title: What is Dododex Pro?
 category: dododex-pro
-permalink: /faq/what-is-dododex-pro
 ---
 
 **Dododex Pro** is an upgrade that removes ads (and a way to support the app's development) and gives you access to Night Mode.

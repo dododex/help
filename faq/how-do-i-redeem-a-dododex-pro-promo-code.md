@@ -2,7 +2,6 @@
 layout: faq
 title: How do I redeem a Dododex Pro promo code?
 category: dododex-pro
-permalink: /en/article/how-do-i-redeem-a-dododex-pro-promo-code
 ---
 
 If you received a Dododex Pro promo code for translating Dododex or from an official promotion, you can easily redeem the code for a free upgrade to Pro.
