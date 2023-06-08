@@ -1,1 +1,8 @@
 theme: jekyll-theme-cayman
+defaults:
+  - scope:
+      path: "faq" # A path to match. This is relative to _config.yml file. For all pages, just use "".
+    values:
+      layout: "page"
+      permalink: "/faq/:basename/" # :basename will be replaced with the name of the file.
+      

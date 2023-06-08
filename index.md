@@ -2,6 +2,7 @@
 layout: faq
 title: Dododex Help
 permalink: /
+hideHeading: true
 ---
 
 
