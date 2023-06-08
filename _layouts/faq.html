@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <link rel="shortcut icon" href="https://www.dododex.com/favicon.ico" type="image/x-icon">
   <meta charset="utf-8">
   <title>{{ page.title }} - Dododex Help</title>
   <link href="https://www.dododex.com/css/style.css" rel="stylesheet">
@@ -10,7 +11,7 @@
     <header id="dodoheader">
       <div class="wrap">
       <h1>
-        <a href="/" title="ARK Taming Calculator">
+        <a href="https://www.dododex.com/" title="ARK Taming Calculator">
           <div id="dogo_image"><img src="https://www.dododex.com/media/logo-small.png" alt="ARK: Survival Evolved Taming Calculator" height="50" width="44" /></div>
           <div id="dogo_text">
             <div id="dogo_name">Dododex</div>
@@ -21,11 +22,25 @@
       </div>
     </header>
     <div id="body" class="accent">
+
+      <header class="pageheader">
+        <div class="wrap">
+          <div class="pageheaderh1">
+            <h1>
+              <div class="h1sub"><a href="/" class="button">← Back to FAQ</a></div>
+              Dododex Help
+            </h1>
+          </div>
+        </div>
+      </header>
+
+
       <div id="main">
         <div class="wrap">
-      
-          {{ content }}
-
+          <h1 class="tile">{{ page.title }}</h1>
+          <div class="lh big">
+            {{ content }}
+          </div>
         </div>
       </div>
     </div>
