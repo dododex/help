@@ -28,14 +28,11 @@ Official Server (Evolution Event Weekends)
 ------------------------------------------
 
 On both the app and [Dododex.com](https://www.dododex.com/), you must manually update your multipliers during Evolution Event weekends. In the Dododex app, you can use the "Evolution Event" preset (or create your own) to easily switch back and forth.
-
-  
+ 
 
 Small Tribes, Conquest, and Arkpocalypse servers are all affected by Evolution event rates ([confirmed by developers](https://twitter.com/Jatheish/status/1332108397576138753)), however, the multiplier is not always the same as "2x (or 3x) the normal rate." See ARK's official announcement for each event's multipliers on these server types.
 
-IMPORTANT:
-
-ARK's Evolution Events don't always the same multipliers. Be sure to check Dododex's live-updating [**Official ARK Server Rates**](https://www.dododex.com/rates)  to confirm the current multipliers on official servers.
+> **IMPORTANT:** ARK's Evolution Events don't always the same multipliers. Be sure to check Dododex's live-updating [**Official ARK Server Rates**](https://www.dododex.com/rates)  to confirm the current multipliers on official servers.
 
 | **Multiplier** | **Value** |
 | --- | --- |

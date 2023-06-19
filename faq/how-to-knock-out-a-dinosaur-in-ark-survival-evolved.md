@@ -10,8 +10,7 @@ To knock out a dinosaur in ARK: Survival Evolved, you must hit it with an torpor
 
 Each dinosaur has a set torpor amount that must be filled out before it gets knocked out. Using [Dododex](https://www.dododex.com)'s Knock Out calculator, you'll be able to calculate how many hits of each weapon are required.
 
-Be Careful Not to Kill The Creature
------------------------------------
+## Be Careful Not to Kill The Creature
 
 Note that because weapons also inflict damage, it's possible to sometimes kill the creature rather than knocking it out. 
 
@@ -19,24 +18,21 @@ Note that because weapons also inflict damage, it's possible to sometimes kill t
 
 The health of a wild creature is randomly assigned, so it's not always 100% possible to determine if you will kill a creature or not, however, **Dododex's "chance of death" feature** will calculate the probability that your specific weapon will kill a creature at a specific level.
 
-Better Weapons Generally Reduce the Chance of Death
----------------------------------------------------
+## Better Weapons Generally Reduce the Chance of Death
 
 More advanced weapons will have a higher **torpor:damage ratio**, which will decrease the chance of death.  
 
 However, in some uncommon cases, stronger weapons can sometimes actually be too powerful for low level dinos with very low health (especially when taking into account a headshot multiplier). For example, imagine a dino's required torpor is 100 and your weapon does 80 torpor. Since the weapon is so strong, shooting twice causes 80 excess torpor (and some equivalent damage), whereas with a weaker weapon -- such as 20 torpor -- you could get exactly 100 torpor -- and no excess damage. 
 
-How Torpor Infliction Works in ARK
-----------------------------------
+## How Torpor Infliction Works in ARK
 
 One of the most common misunderstandings about ARK is how torpor is inflicted when you are KOing a dino.
 
-1\. It's best to hit at a tempo of every 5 seconds.
----------------------------------------------------
+## 1\. It's best to hit at a tempo of every 5 seconds.
 
 Most weapons (Bow, Crossbow, Longneck Rifle) inflict torpor **over a period of 5 seconds**. After that, torpor infliction pauses for 1 second before dropping. This means that the creature's torpor **starts depleting after 6 seconds**, so it's best to aim for shooting every 5 seconds.
 
-2\. Torpor rate varies by dino (and increases with level)
+## 2\. Torpor rate varies by dino (and increases with level)
 ---------------------------------------------------------
 
 Torpor rate varies by dino. Stronger dinos usually (but not always) have higher torpor rates, and even just a few seconds past the 6 seconds can cancel out several shots. Dododex shows rate under the torpor section and labels it as high or low. Also, a higher level means a higher torpor rate.
@@ -62,7 +58,7 @@ Highest Torpor Rate Dinos:
 
 Torpor from each hit will stack. Shooting too fast does not "waste" any torpor (a common misconception), however, torpor will become backlogged, which may make it difficult to determine if you need to keep shooting.
 
-> **Example: **A dino requires 10 arrows, but you've shot all 10 so quickly that it hasn't KOed because it's only gotten through ~7 arrows worth of torpor so far. Some players might keep shooting since it's not KOing, but all you would need to do is wait for the backlog to finish.
+> **Example:** A dino requires 10 arrows, but you've shot all 10 so quickly that it hasn't KOed because it's only gotten through ~7 arrows worth of torpor so far. Some players might keep shooting since it's not KOing, but all you would need to do is wait for the backlog to finish.
 
 However, shooting a bit faster than 5 seconds (causing the torpor to start backlogging) can be helpful if you know you might miss some shots (esp. for faster dinos). This way, if you miss a shot, the torpor won't start depleting since it's still running through the backlog.
 
@@ -71,7 +67,8 @@ However, shooting a bit faster than 5 seconds (causing the torpor to start bac
 
 [Dododex](https://www.dododex.com/) is the only app to include torpor depletion in its KO calculations. You can use the "seconds between hits" option (available on the website and app) to accurately determine how many resources you'll need based on your expected hitting speed.
 
-TL;DR:
+
+## TL;DR: 
 
 Always try to shoot at a tempo of ~5 seconds, but you can shoot slightly faster if you're anticipating misses. Check the dino's torpor rate on Dododex to determine how crucial it is to hit at the right speed.
 
