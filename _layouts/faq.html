@@ -62,12 +62,12 @@
     <div class="tinywrap">
     <div class="mainLinks marginBottom2 left cols">
     <div class="col">
-    <h3 class="uppercase">More {{ page.category }} FAQs</h3>
+    <h3 class="uppercase">Related</h3>
     <ul>
       {% assign current_page = page %}
       {% for page in site.pages %}
         {% if page.category == current_page.category and page.url != current_page.url %}
-          <li><a href="({{ page.url | relative_url }})">{{ page.title }}]</a></li>
+          <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
         {% endif %}
       {% endfor %}
     </ul>

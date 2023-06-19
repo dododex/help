@@ -9,8 +9,7 @@ category: bugs
 
 If you've experience knock-out estimates being too low, please consider the following.
 
-1\. Make sure your "Seconds Between Hits" is properly configured
-----------------------------------------------------------------
+## 1\. Make sure your "Seconds Between Hits" is properly configured
 
 The most common reason why you might be seeing lower numbers on Dododex is if your "Seconds Between Hits" is not properly configured. When you hit a creature and inflict torpor, its **torpor depletes over time**. This means that waiting 10 seconds between a few shots, for example, could cancel out one of the shots, because the creature had time to deplete torpor.
 
@@ -18,13 +17,11 @@ The most common reason why you might be seeing lower numbers on Dododex is if yo
 
 For creatures with high torpor rates (often the stronger creatures), these gaps can have a bigger effect, since the dino's torpor drops even faster.
 
-2\. You might be shooting too SLOW (or missing)
------------------------------------------------
+## 2\. You might be shooting too SLOW (or missing)
 
 As mentioned above, if you shoot too slow, a dino's torpor will deplete in between your shots, cancelling out some of the times you hit the dino.
 
-3\. You might be shooting too FAST
-----------------------------------
+## 3\. You might be shooting too FAST
 
 When you hit a dino, it instantly inflicts torpor, but then it slowly inflicts more torpor over a few seconds. When you hit it a second time, the same will happen, however, if there is still torpor queued up from the first shot, it will begin to create a backlog of torpor to inflict. 
 
@@ -36,7 +33,7 @@ This can lead to the misconception that Dododex's calculation is "too low" when 
 
 _**See also:**_  [_How to Knock Out a Dinosaur in ARK: Survival Evolved_](https://help.dododex.com/en/article/how-to-knock-out-a-dinosaur-in-ark-survival-evolved)
 
-4\. Considering hit registration errors in ARK
+## 4\. Considering hit registration errors in ARK
 ----------------------------------------------
 
 > **IMPORTANT:** Sometimes, it may appear that you hit a creature in ARK: Survival Evolved, but it was actually registered on the server as a miss.

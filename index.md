@@ -5,8 +5,8 @@ permalink: /
 hideHeading: true
 ---
 
-<br><br>
-> Need some help using Dododex, the companion app for ARK: Survival Evolved? Here are some frequently asked questions.
+<br>
+> Need some help using [Dododex](https://www.dododex.com), the companion app for ARK: Survival Evolved? Here are some frequently asked questions.
 
 ## Using Dododex
 

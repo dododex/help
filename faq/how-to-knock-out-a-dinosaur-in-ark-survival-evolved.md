@@ -14,8 +14,6 @@ Each dinosaur has a set torpor amount that must be filled out before it gets kno
 
 Note that because weapons also inflict damage, it's possible to sometimes kill the creature rather than knocking it out. 
 
-  
-
 The health of a wild creature is randomly assigned, so it's not always 100% possible to determine if you will kill a creature or not, however, **Dododex's "chance of death" feature** will calculate the probability that your specific weapon will kill a creature at a specific level.
 
 ## Better Weapons Generally Reduce the Chance of Death
