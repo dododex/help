@@ -9,9 +9,7 @@ This guide will show you how to configure your ARK multipliers for various types
 ARK Multipliers
 ---------------
 
-PERMANENT 2X TAMING (AUGUST 2020)
-
-In August 2020, ARK's base taming speed on PC, PS4, and Xbox is now doubled, meaning 1× is as fast as what 2× was previously. Dododex has been updated to reflect this. Like ARK, Dododex implemented this as part of the base speed (1x) -- so keep your multipliers at 1x on Official Servers.
+**PERMANENT 2X TAMING (AUGUST 2020):** In August 2020, ARK's base taming speed on PC, PS4, and Xbox is now doubled, meaning 1× is as fast as what 2× was previously. Dododex has been updated to reflect this. Like ARK, Dododex implemented this as part of the base speed (1x) -- so keep your multipliers at 1x on Official Servers.
 
 Official Server
 ---------------
@@ -32,7 +30,7 @@ On both the app and [Dododex.com](https://www.dododex.com/), you must manually u
 
 Small Tribes, Conquest, and Arkpocalypse servers are all affected by Evolution event rates ([confirmed by developers](https://twitter.com/Jatheish/status/1332108397576138753)), however, the multiplier is not always the same as "2x (or 3x) the normal rate." See ARK's official announcement for each event's multipliers on these server types.
 
-> **IMPORTANT:** ARK's Evolution Events don't always the same multipliers. Be sure to check Dododex's live-updating [**Official ARK Server Rates**](https://www.dododex.com/rates)  to confirm the current multipliers on official servers.
+**IMPORTANT:** ARK's Evolution Events don't always the same multipliers. Be sure to check Dododex's live-updating [**Official ARK Server Rates**](https://www.dododex.com/rates)  to confirm the current multipliers on official servers.
 
 | **Multiplier** | **Value** |
 | --- | --- |
@@ -45,7 +43,7 @@ Small Tribes, Conquest, and Arkpocalypse servers are all affected by Evolution e
 Single Player
 -------------
 
-By default, single player on PC and console has "Use Single Player Settings" on. See below for details about Use Single Player Settings. 
+_By default, single player on PC and console has "Use Single Player Settings" on. See below for details about Use Single Player Settings._
 
 | **Multiplier** | **Value** |
 | --- | --- |
@@ -82,10 +80,10 @@ ARK: Mobile
 
 | **Multiplier** | **Value** |
 | --- | --- |
-| **Taming Speed** | Normal: **0.875**<br><br>With 3x Minor Soothing Balm: **2.625**<br><br>With 10x Minor Soothing Balm: **8.75**<br><br>With 15x Minor Soothing Balm: **13.125** |
+| **Taming Speed** | Normal: **0.875**<br>With 3x Minor Soothing Balm: **2.625**<br>With 10x Minor Soothing Balm: **8.75**<br>With 15x Minor Soothing Balm: **13.125** |
 | **Egg Hatch Speed** | **1** |
 | **Baby Mature Speed** | **1** |
-| **XP Multiplier** | **0.5**<br><br>With Primal Pass Upgrade: **1** |
+| **XP Multiplier** | **0.5**<br>With Primal Pass Upgrade: **1** |
 | **Use Single Player Settings** | Off _(default)_ |
 
 Explanation of ARK Multipliers
