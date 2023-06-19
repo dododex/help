@@ -34,19 +34,17 @@
       <header class="pageheader">
         <div class="wrap">
           <div class="pageheaderh1">
-            <h1>
-              {% if page.name != 'index.md' %}
-              <div class="h1sub"><a href="/" class="button">← Back to FAQ</a></div>
-              {% endif %}
-              Dododex Help
-            </h1>
+          {% if page.name != 'index.md' %}
+          <div><a href="/" class="button">← Back to FAQ</a></div>
+          {% endif %}
+          <h1>Dododex Help</h1>
           </div>
         </div>
       </header>
 
       <div class="wrap" style="max-width:800px;">
         {% if page.hideHeading != true %}
-        <h1 class="title">{{ page.title }}</h1>
+        <h1 class="title" style="margin-bottom:0.5em">{{ page.title }}</h1>
         {% endif %}
         <div class="lh kindabig">
           {{ content }}
