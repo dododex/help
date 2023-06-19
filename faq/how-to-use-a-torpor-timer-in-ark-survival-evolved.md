@@ -1,6 +1,6 @@
 ---
 layout: faq
-title: How to use a Torpor Timer in ARK: Survival Evolved
+title: "How to use a Torpor Timer in ARK: Survival Evolved"
 category: guides
 ---
 

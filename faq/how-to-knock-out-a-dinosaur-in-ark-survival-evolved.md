@@ -1,6 +1,6 @@
 ---
 layout: faq
-title: How to Knock Out a Dinosaur in ARK: Survival Evolved
+title: "How to Knock Out a Dinosaur in ARK: Survival Evolved"
 category: guides
 ---
 

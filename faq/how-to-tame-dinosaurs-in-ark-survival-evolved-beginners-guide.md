@@ -1,6 +1,6 @@
 ---
 layout: faq
-title: How to Tame Dinosaurs in ARK: Survial Evolved
+title: "How to Tame Dinosaurs in ARK: Survial Evolved"
 category: guides
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: faq
-title: Dododex App Not Loading: Steps To Resolve
+title: "Dododex App Not Loading: Steps To Resolve"
 category: bugs
 ---
 

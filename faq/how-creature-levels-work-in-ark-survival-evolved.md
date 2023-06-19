@@ -1,6 +1,6 @@
 ---
 layout: faq
-title: How Creature Levels work in ARK: Survival Evolved
+title: "How Creature Levels work in ARK: Survival Evolved"
 category: guides
 ---
 
