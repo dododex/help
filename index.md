@@ -39,9 +39,3 @@ hideHeading: true
 - [{{ page.title }}]({{ page.url | relative_url }})
   {% endif %}
 {% endfor %}
-
-## All FAQS
-
-{% for page in site.pages %}
-- [{{ page.title }}]({{ page.url | relative_url }})
-{% endfor %}
