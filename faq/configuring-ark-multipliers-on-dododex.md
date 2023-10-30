@@ -87,16 +87,16 @@ _By default, single player on PC and console has "Use Single Player Settings" on
     </tr>
     <tr>
       <td class="avg">Egg Hatch Speed</td>
-      <td>5</td>
-      <td>10</td>
       <td>20</td>
+      <td>10</td>
+      <td>5</td>
       <td>1</td>
     </tr>
     <tr>
       <td class="avg">Baby Mature Speed</td>
-      <td>10</td>
-      <td>20</td>
       <td>40</td>
+      <td>20</td>
+      <td>10</td>
       <td>1</td>
     </tr>
     <tr>
