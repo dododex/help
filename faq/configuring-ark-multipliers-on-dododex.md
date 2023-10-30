@@ -162,14 +162,62 @@ _By default, single player on PC and console has "Use Single Player Settings" on
 
 ## Explanation of ARK Multipliers
 
-| Multiplier | What increasing it does | Where to find in ASE Settings |  Where to find in ASA Settings | Property name in GameUserSettings.ini |
-| --- | --- | --- | --- | --- |
-| **Taming Speed** | **Reduces food** required for taming dinos. This will in turn **reduce time and narcotics**, and **increase effectiveness.** | General Tab | Game Rules > World | `TamingSpeedMultiplier` |
-| **Dino Character Food Drain** | Creatures get **hungry faster**, meaning they **tame faster** with the same quantity of food. Does not affect taming effectiveness. | General Tab | Game Rules > Creature ("Food Drain") | `DinoCharacterFoodDrainMultiplier` |
-| **Egg Hatch Speed** | Increases speed of hatching / gestation. | Advanced Tab | Advanced > World | `EggHatchSpeedMultiplier` |
-| **Baby Mature Speed** | Increases speed of a baby's maturation (after hatching/birth) | Advanced Tab | Advanced > World | `BabyMatureSpeedMultiplier` |
-| **XP Multiplier** | Increases XP gained | General Tab | Game Rules > World | `XPMultiplier` |
-| **Use Single Player Settings** | A checkbox that increases several multiplier. See below. | General Tab | Game Rules > Rules | `bUseSingleplayerSettings` |
+<table>
+  <thead>
+    <tr>
+      <th>Multiplier</th>
+      <th>What increasing it does</th>
+      <th>Where to find in ASE Settings</th>
+      <th>Where to find in ASA Settings</th>
+      <th>Property name in GameUserSettings.ini</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="avg"><strong>Taming Speed</strong></td>
+      <td><strong>Reduces food</strong> required for taming dinos. This will in turn <strong>reduce time and narcotics</strong>, and <strong>increase effectiveness.</strong></td>
+      <td>General Tab</td>
+      <td>Game Rules &gt; World</td>
+      <td><code class="language-plaintext highlighter-rouge">TamingSpeedMultiplier</code></td>
+    </tr>
+    <tr>
+      <td class="avg"><strong>Dino Character Food Drain</strong></td>
+      <td>Creatures get <strong>hungry faster</strong>, meaning they <strong>tame faster</strong> with the same quantity of food. Does not affect taming effectiveness.</td>
+      <td>General Tab</td>
+      <td>Game Rules &gt; Creature (“Food Drain”)</td>
+      <td><code class="language-plaintext highlighter-rouge">DinoCharacterFoodDrainMultiplier</code></td>
+    </tr>
+    <tr>
+      <td class="avg"><strong>Egg Hatch Speed</strong></td>
+      <td>Increases speed of hatching / gestation.</td>
+      <td>Advanced Tab</td>
+      <td>Advanced &gt; World</td>
+      <td><code class="language-plaintext highlighter-rouge">EggHatchSpeedMultiplier</code></td>
+    </tr>
+    <tr>
+      <td class="avg"><strong>Baby Mature Speed</strong></td>
+      <td>Increases speed of a baby’s maturation (after hatching/birth)</td>
+      <td>Advanced Tab</td>
+      <td>Advanced &gt; World</td>
+      <td><code class="language-plaintext highlighter-rouge">BabyMatureSpeedMultiplier</code></td>
+    </tr>
+    <tr>
+      <td class="avg"><strong>XP Multiplier</strong></td>
+      <td>Increases XP gained</td>
+      <td>General Tab</td>
+      <td>Game Rules &gt; World</td>
+      <td><code class="language-plaintext highlighter-rouge">XPMultiplier</code></td>
+    </tr>
+    <tr>
+      <td class="avg"><strong>Use Single Player Settings</strong></td>
+      <td>A checkbox that increases several multiplier. See below.</td>
+      <td>General Tab</td>
+      <td>Game Rules &gt; Rules</td>
+      <td><code class="language-plaintext highlighter-rouge">bUseSingleplayerSettings</code></td>
+    </tr>
+  </tbody>
+</table>
+
 
 _More details on other ARK Multipliers:_ [_ark.gamepedia.com/Server_Configuration_](https://ark.gamepedia.com/Server_Configuration)
 
