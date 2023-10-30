@@ -162,7 +162,7 @@ _By default, single player on PC and console has "Use Single Player Settings" on
 
 ## Explanation of ARK Multipliers
 
-<table>
+<table class="small">
   <thead>
     <tr>
       <th>Multiplier</th>
