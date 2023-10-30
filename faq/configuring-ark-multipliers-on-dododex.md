@@ -68,8 +68,8 @@ _By default, single player on PC and console has "Use Single Player Settings" on
   <thead>
     <tr>
       <th rowspan="2">Multiplier</th>
-      <th rowspan="2">ARK: Survival Evolved</th>
       <th colspan="3">ARK: Survival Ascended</th>
+      <th rowspan="2">ARK: Survival Evolved</th>
     </tr>
     <tr>
       <th>Difficulty: Easy</th>
@@ -174,43 +174,43 @@ _By default, single player on PC and console has "Use Single Player Settings" on
   </thead>
   <tbody>
     <tr>
-      <td class="avg"><strong>Taming Speed</strong></td>
-      <td><strong>Reduces food</strong> required for taming dinos. This will in turn <strong>reduce time and narcotics</strong>, and <strong>increase effectiveness.</strong></td>
+      <td class="avg">Taming Speed</td>
+      <td class="small"><strong>Reduces food</strong> required for taming dinos. This will in turn <strong>reduce time and narcotics</strong>, and <strong>increase effectiveness.</strong></td>
       <td>General Tab</td>
       <td>Game Rules &gt; World</td>
       <td><code class="language-plaintext highlighter-rouge">TamingSpeedMultiplier</code></td>
     </tr>
     <tr>
-      <td class="avg"><strong>Dino Character Food Drain</strong></td>
-      <td>Creatures get <strong>hungry faster</strong>, meaning they <strong>tame faster</strong> with the same quantity of food. Does not affect taming effectiveness.</td>
+      <td class="avg">Dino Character Food Drain</td>
+      <td class="small">Creatures get <strong>hungry faster</strong>, meaning they <strong>tame faster</strong> with the same quantity of food. Does not affect taming effectiveness.</td>
       <td>General Tab</td>
       <td>Game Rules &gt; Creature (“Food Drain”)</td>
       <td><code class="language-plaintext highlighter-rouge">DinoCharacterFoodDrainMultiplier</code></td>
     </tr>
     <tr>
-      <td class="avg"><strong>Egg Hatch Speed</strong></td>
-      <td>Increases speed of hatching / gestation.</td>
+      <td class="avg">Egg Hatch Speed</td>
+      <td class="small">Increases speed of hatching / gestation.</td>
       <td>Advanced Tab</td>
       <td>Advanced &gt; World</td>
       <td><code class="language-plaintext highlighter-rouge">EggHatchSpeedMultiplier</code></td>
     </tr>
     <tr>
-      <td class="avg"><strong>Baby Mature Speed</strong></td>
-      <td>Increases speed of a baby’s maturation (after hatching/birth)</td>
+      <td class="avg">Baby Mature Speed</td>
+      <td class="small">Increases speed of a baby’s maturation (after hatching/birth)</td>
       <td>Advanced Tab</td>
       <td>Advanced &gt; World</td>
       <td><code class="language-plaintext highlighter-rouge">BabyMatureSpeedMultiplier</code></td>
     </tr>
     <tr>
-      <td class="avg"><strong>XP Multiplier</strong></td>
-      <td>Increases XP gained</td>
+      <td class="avg">XP Multiplier</td>
+      <td class="small">Increases XP gained</td>
       <td>General Tab</td>
       <td>Game Rules &gt; World</td>
       <td><code class="language-plaintext highlighter-rouge">XPMultiplier</code></td>
     </tr>
     <tr>
-      <td class="avg"><strong>Use Single Player Settings</strong></td>
-      <td>A checkbox that increases several multiplier. See below.</td>
+      <td class="avg">Use Single Player Settings</td>
+      <td class="small">A checkbox that increases several multipliers. See below.</td>
       <td>General Tab</td>
       <td>Game Rules &gt; Rules</td>
       <td><code class="language-plaintext highlighter-rouge">bUseSingleplayerSettings</code></td>
