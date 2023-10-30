@@ -7,7 +7,7 @@ category: using-dododex
 This guide will show you how to configure your ARK multipliers for various types of servers and game modes. This guide only covers multipliers that affect taming, breeding, and XP rates on Dododex. 
 
 <h2>Official Servers</h2>
-<table>
+<table class="small">
   <thead>
     <tr>
       <th>Multiplier</th>
@@ -19,35 +19,35 @@ This guide will show you how to configure your ARK multipliers for various types
   </thead>
   <tbody>
     <tr>
-      <td>Taming Speed</td>
+      <td class="avg">Taming Speed</td>
       <td>1</td>
       <td>Typically 2 on most weekend events</td>
       <td>2.5</td>
       <td>3</td>
     </tr>
     <tr>
-      <td>Egg Hatch Speed</td>
+      <td class="avg">Egg Hatch Speed</td>
       <td>1</td>
       <td>Typically 2</td>
       <td>2</td>
       <td>3</td>
     </tr>
     <tr>
-      <td>Baby Mature Speed</td>
+      <td class="avg">Baby Mature Speed</td>
       <td>1</td>
       <td>Typically 2</td>
       <td>2</td>
       <td>3</td>
     </tr>
     <tr>
-      <td>XP Multiplier</td>
+      <td class="avg">XP Multiplier</td>
       <td>1</td>
       <td>Typically 2</td>
       <td>2.5</td>
       <td>3</td>
     </tr>
     <tr>
-      <td>Use Single Player Settings</td>
+      <td class="avg">Use Single Player Settings</td>
       <td colspan="4">Off</td>
     </tr>
   </tbody>
@@ -64,7 +64,7 @@ On both the app and [Dododex.com](https://www.dododex.com/), you must manually u
 
 _By default, single player on PC and console has "Use Single Player Settings" on. See below for details about Use Single Player Settings._
 
-<table>
+<table class="small">
   <thead>
     <tr>
       <th rowspan="2">Multiplier</th>
@@ -79,35 +79,35 @@ _By default, single player on PC and console has "Use Single Player Settings" on
   </thead>
   <tbody>
     <tr>
-      <td>Taming Speed</td>
+      <td class="avg">Taming Speed</td>
       <td>5</td>
       <td>3</td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td>Egg Hatch Speed</td>
+      <td class="avg">Egg Hatch Speed</td>
       <td>5</td>
       <td>10</td>
       <td>20</td>
       <td>1</td>
     </tr>
     <tr>
-      <td>Baby Mature Speed</td>
+      <td class="avg">Baby Mature Speed</td>
       <td>10</td>
       <td>20</td>
       <td>40</td>
       <td>1</td>
     </tr>
     <tr>
-      <td>XP Multiplier</td>
+      <td class="avg">XP Multiplier</td>
       <td>3</td>
       <td>2</td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td>Use Single Player Settings</td>
+      <td class="avg">Use Single Player Settings</td>
       <td colspan="4">On</td>
     </tr>
   </tbody>
@@ -117,7 +117,7 @@ _By default, single player on PC and console has "Use Single Player Settings" on
 
 ## ARK: Mobile
 
-<table>
+<table class="small">
   <thead>
     <tr>
       <th>Multiplier</th>
@@ -126,7 +126,7 @@ _By default, single player on PC and console has "Use Single Player Settings" on
   </thead>
   <tbody>
     <tr>
-      <td rowspan="4">Taming Speed</td>
+      <td class="avg" rowspan="4">Taming Speed</td>
       <td>Normal: 0.875</td>
     </tr>
     <tr>
@@ -139,19 +139,19 @@ _By default, single player on PC and console has "Use Single Player Settings" on
       <td>With 15x Minor Soothing Balm: 13.125</td>
     </tr>
     <tr>
-      <td>Egg Hatch Speed</td>
+      <td class="avg">Egg Hatch Speed</td>
       <td>1</td>
     </tr>
     <tr>
-      <td>Baby Mature Speed</td>
+      <td class="avg">Baby Mature Speed</td>
       <td>1</td>
     </tr>
     <tr>
-      <td>XP Multiplier</td>
+      <td class="avg">XP Multiplier</td>
       <td>0.5<br>With Primal Pass Upgrade: 1</td>
     </tr>
     <tr>
-      <td>Use Single Player Settings</td>
+      <td class="avg">Use Single Player Settings</td>
       <td>Off</td>
     </tr>
   </tbody>
