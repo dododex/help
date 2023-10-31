@@ -113,7 +113,8 @@ _By default, single player on PC and console has "Use Single Player Settings" on
   </tbody>
 </table>
 
-
+### ARK: Survival Ascended Difficulty Presets
+ARK: Survival Ascended has difficulty presets that simply select multipliers for you, as seen in the table above. If you want to set everything to 1, click "Restore Defaults." 
 
 ## ARK: Mobile
 
