@@ -218,8 +218,7 @@ _By default, single player on PC and console has "Use Single Player Settings" on
   </tbody>
 </table>
 
-
-_More details on other ARK Multipliers:_ [_ark.gamepedia.com/Server_Configuration_](https://ark.gamepedia.com/Server_Configuration)
+_More details on other ARK multipliers:_ [ark.wiki.gg/wiki/Server_configuration](https://ark.wiki.gg/wiki/Server_configuration)
 
 ### What is "Use Single Player Settings"?
 
