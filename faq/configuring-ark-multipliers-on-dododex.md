@@ -26,6 +26,13 @@ This guide will show you how to configure your ARK multipliers for various types
       <td>3</td>
     </tr>
     <tr>
+      <td class="avg">Food Drain</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
       <td class="avg">Egg Hatch Speed</td>
       <td>1</td>
       <td>Typically 2</td>
@@ -86,6 +93,13 @@ _By default, single player on PC and console has "Use Single Player Settings" on
       <td>1</td>
     </tr>
     <tr>
+      <td class="avg">Food Drain</td>
+      <td>0.25</td>
+      <td>0.5</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
       <td class="avg">Egg Hatch Speed</td>
       <td>20</td>
       <td>10</td>
@@ -113,8 +127,8 @@ _By default, single player on PC and console has "Use Single Player Settings" on
   </tbody>
 </table>
 
-### ARK: Survival Ascended Difficulty Presets
-ARK: Survival Ascended has difficulty presets that simply select multipliers for you, as seen in the table above. If you want to set everything to 1, click "Restore Defaults." 
+### ARK: Survival Ascended's Difficulty Presets
+ARK: Survival Ascended has difficulty presets that simply select multipliers for you, as seen in the table above. If you want to set everything to 1, click "Restore Defaults." Note that while the "Easy" difficulty increases Taming Speed (dinos require a lower amount of food), it also decreases Food Drain (dinos take longer to get hungry), meaning that overall time required to tame does not necessarily go down. In some cases, Easy takes longer to tame, and in some cases it will be the same, depending on the dino, level, and food. Also note that a longer tame time means more narcotics.
 
 ## ARK: Mobile
 
@@ -138,6 +152,10 @@ ARK: Survival Ascended has difficulty presets that simply select multipliers for
     </tr>
     <tr>
       <td>With 15x Minor Soothing Balm: 13.125</td>
+    </tr>
+    <tr>
+      <td class="avg">Food Drain</td>
+      <td>1</td>
     </tr>
     <tr>
       <td class="avg">Egg Hatch Speed</td>
