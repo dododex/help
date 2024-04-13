@@ -4,8 +4,6 @@ title: "Dododex App Not Loading: Steps To Resolve"
 category: bugs
 ---
 
-<div class="lightbox warningBox"><b>⚠️ Ongoing Outages April 11-12, 2024:</b> Dododex has been experiencing intermittent outages for some users due to a DNS issue caused by a mistake made by its incompetent hosting provider. Unfortunately, this issue is out of Dododex's control and will hopefully be resolved soon. Check <a href="https://www.twitter.com/Dododex">@Dododex</a> on Twitter or Discord for the most recent updates regarding this issue. Apologies for the inconvience!</div>
-
 > If your Dododex App on iOS or Android is not loading, please try the following steps to resolve the issue.
 
 If you see an error labeled "Sorry, there was an issue loading Dododex's creature data. Please check your network connection or try again in a few moments." this is a generic error. Please follow the steps below.
