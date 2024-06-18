@@ -36,4 +36,4 @@ The following creatures **cannot be carried by the Argentavis** in ARK Mobile (b
 *   **Gallimimu**
 *   **Kaprosuchus**
 *   **Procoptodon** 
-*   **Dimetrodon** (CONFIRMATION NEEDED)
+*   **Dimetrodon** 
