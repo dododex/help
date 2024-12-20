@@ -142,7 +142,7 @@ ARK: Survival Ascended has difficulty presets that simply select multipliers for
   </thead>
   <tbody>
     <tr>
-      <td class="avg" rowspan="4">Taming Speed</td>
+      <td class="avg">Taming Speed</td>
       <td>2.5</td>
       <td>Unknown (possibly same as single player?)</td>
     </tr>
