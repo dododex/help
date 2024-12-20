@@ -195,42 +195,42 @@ ARK: Survival Ascended has difficulty presets that simply select multipliers for
       <td class="small"><strong>Reduces food</strong> required for taming dinos. This will in turn <strong>reduce time and narcotics</strong>, and <strong>increase effectiveness.</strong></td>
       <td>General Tab</td>
       <td>Game Rules &gt; World</td>
-      <td><code class="language-plaintext highlighter-rouge">TamingSpeedMultiplier</code></td>
+      <td>TamingSpeedMultiplier</td>
     </tr>
     <tr>
       <td class="avg">Dino Character Food Drain</td>
       <td class="small">Creatures get <strong>hungry faster</strong>, meaning they <strong>tame faster</strong> with the same quantity of food. Does not affect taming effectiveness.</td>
       <td>General Tab</td>
       <td>Game Rules &gt; Creature (“Food Drain”)</td>
-      <td><code class="language-plaintext highlighter-rouge">DinoCharacterFoodDrainMultiplier</code></td>
+      <td>DinoCharacterFoodDrainMultiplier</td>
     </tr>
     <tr>
       <td class="avg">Egg Hatch Speed</td>
       <td class="small">Increases speed of hatching / gestation.</td>
       <td>Advanced Tab</td>
       <td>Advanced &gt; World</td>
-      <td><code class="language-plaintext highlighter-rouge">EggHatchSpeedMultiplier</code></td>
+      <td>EggHatchSpeedMultiplier</td>
     </tr>
     <tr>
       <td class="avg">Baby Mature Speed</td>
       <td class="small">Increases speed of a baby’s maturation (after hatching/birth)</td>
       <td>Advanced Tab</td>
       <td>Advanced &gt; World</td>
-      <td><code class="language-plaintext highlighter-rouge">BabyMatureSpeedMultiplier</code></td>
+      <td>BabyMatureSpeedMultiplier</td>
     </tr>
     <tr>
       <td class="avg">XP Multiplier</td>
       <td class="small">Increases XP gained</td>
       <td>General Tab</td>
       <td>Game Rules &gt; World</td>
-      <td><code class="language-plaintext highlighter-rouge">XPMultiplier</code></td>
+      <td>XPMultiplier</td>
     </tr>
     <tr>
       <td class="avg">Use Single Player Settings</td>
       <td class="small">A checkbox that increases several multipliers. See below.</td>
       <td>General Tab</td>
       <td>Game Rules &gt; Rules</td>
-      <td><code class="language-plaintext highlighter-rouge">bUseSingleplayerSettings</code></td>
+      <td>>bUseSingleplayerSettings</td>
     </tr>
   </tbody>
 </table>
