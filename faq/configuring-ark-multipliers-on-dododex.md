@@ -1,4 +1,4 @@
----
+s---
 layout: faq
 title: Configuring ARK Multipliers on Dododex
 category: using-dododex
@@ -130,47 +130,45 @@ _By default, single player on PC and console has "Use Single Player Settings" on
 ### ARK: Survival Ascended's Difficulty Presets
 ARK: Survival Ascended has difficulty presets that simply select multipliers for you, as seen in the table above. If you want to set everything to 1, click "Restore Defaults." Note that while the "Easy" difficulty increases Taming Speed (dinos require a lower amount of food), it also decreases Food Drain (dinos take longer to get hungry), meaning that overall time required to tame does not necessarily go down. In some cases, Easy takes longer to tame, and in some cases it will be the same, depending on the dino, level, and food. Also note that a longer tame time means more narcotics.
 
-## ARK: Mobile
+## ARK: Ultimate Mobile Edition 
 
 <table class="small">
   <thead>
     <tr>
       <th>Multiplier</th>
-      <th>ARK: Mobile</th>
+      <th>Single Player</th>
+      <th>Multiplayer</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td class="avg" rowspan="4">Taming Speed</td>
-      <td>Normal: 0.875</td>
-    </tr>
-    <tr>
-      <td>With 3x Minor Soothing Balm: 2.625</td>
-    </tr>
-    <tr>
-      <td>With 10x Minor Soothing Balm: 8.75</td>
-    </tr>
-    <tr>
-      <td>With 15x Minor Soothing Balm: 13.125</td>
+      <td>2.5</td>
+      <td>Unknown (possibly same as single player?)</td>
     </tr>
     <tr>
       <td class="avg">Food Drain</td>
       <td>1</td>
+      <td>Unknown</td>
     </tr>
     <tr>
       <td class="avg">Egg Hatch Speed</td>
-      <td>1</td>
+      <td>9</td>
+      <td>Unknown</td>
     </tr>
     <tr>
       <td class="avg">Baby Mature Speed</td>
-      <td>1</td>
+      <td>40</td>
+      <td>Unknown</td>
     </tr>
     <tr>
       <td class="avg">XP Multiplier</td>
-      <td>0.5<br>With Primal Pass Upgrade: 1</td>
+      <td>1</td>
+      <td>Unknown</td>
     </tr>
     <tr>
       <td class="avg">Use Single Player Settings</td>
+      <td>Off</td>
       <td>Off</td>
     </tr>
   </tbody>
