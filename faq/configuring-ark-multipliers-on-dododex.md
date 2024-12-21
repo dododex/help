@@ -136,39 +136,32 @@ ARK: Survival Ascended has difficulty presets that simply select multipliers for
   <thead>
     <tr>
       <th>Multiplier</th>
-      <th>Single Player</th>
-      <th>Multiplayer</th>
+      <th>Single Player & Multiplayer</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td class="avg">Taming Speed</td>
       <td>2.5 (Use 5 for Double Taming hack)</td>
-      <td>Unknown (possibly same as single player?)</td>
     </tr>
     <tr>
       <td class="avg">Food Drain</td>
       <td>1</td>
-      <td>Unknown</td>
     </tr>
     <tr>
       <td class="avg">Egg Hatch Speed</td>
       <td>9</td>
-      <td>Unknown</td>
     </tr>
     <tr>
       <td class="avg">Baby Mature Speed</td>
       <td>40</td>
-      <td>Unknown</td>
     </tr>
     <tr>
       <td class="avg">XP Multiplier</td>
       <td>1</td>
-      <td>Unknown</td>
     </tr>
     <tr>
       <td class="avg">Use Single Player Settings</td>
-      <td>Off</td>
       <td>Off</td>
     </tr>
   </tbody>
