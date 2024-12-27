@@ -154,12 +154,12 @@ ARK: Survival Ascended has difficulty presets that simply select multipliers for
     <tr>
       <td class="avg">Egg Hatch Speed</td>
       <td>9</td>
-      <td>?</td>
+      <td>Possibly 1?</td>
     </tr>
     <tr>
       <td class="avg">Baby Mature Speed</td>
       <td>40</td>
-      <td>?</td>
+      <td>Possibly 1?</td>
     </tr>
     <tr>
       <td class="avg">XP Multiplier</td>
