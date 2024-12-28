@@ -136,7 +136,7 @@ ARK: Survival Ascended has difficulty presets that simply select multipliers for
   <thead>
     <tr>
       <th>Multiplier</th>
-      <th>Single Player</th>
+      <th>Single Player*</th>
       <th>Multiplayer</th>
     </tr>
   </thead>
@@ -163,8 +163,8 @@ ARK: Survival Ascended has difficulty presets that simply select multipliers for
     </tr>
     <tr>
       <td class="avg">XP Multiplier</td>
-      <td>1</td>
-      <td>1</td>
+      <td>1 (Use 2 if you have ARK Pass)</td>
+      <td>1 (Use 2 if you have ARK Pass)</td>
     </tr>
     <tr>
       <td class="avg">Use Single Player Settings</td>
@@ -173,6 +173,10 @@ ARK: Survival Ascended has difficulty presets that simply select multipliers for
     </tr>
   </tbody>
 </table>
+
+<em>* In your game settings, all multipliers will display as "1" and these can be customized if you purchase the ARK Pass. However, these are ADDITIONAL multipliers on top of the base multpliers listed above. If you increase your taming multiplier to 2, for example, it will be 2x the base multiplier (2 x 2.5 = 5). So you would use 5.</em>
+
+Single player is not affected by event boosts on ARK Mobile.
 
 ---
 
