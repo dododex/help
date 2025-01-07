@@ -21,7 +21,7 @@ This guide will show you how to configure your ARK multipliers for various types
     <tr>
       <td class="avg">Taming Speed</td>
       <td>1</td>
-      <td>Typically 2 on most weekend events</td>
+      <td>Typically 2 on most weekend events ([**Check current rates**](https://www.dododex.com/rates))</td>
       <td>2.5</td>
       <td>3</td>
     </tr>
@@ -177,6 +177,15 @@ ARK: Survival Ascended has difficulty presets that simply select multipliers for
 <em>* In your game settings, all multipliers will display as "1" and these can be customized if you purchase the ARK Pass. However, these are ADDITIONAL multipliers on top of the base multpliers listed above. If you increase your taming multiplier to 2, for example, it will be 2x the base multiplier (2 x 2.5 = 5). So you would use 5.</em>
 
 Single player is not affected by event boosts on ARK Mobile.
+
+## Tribe Tower Bonus
+In Bob's Tall Tales, the Tribe Tower gives you a taming bonus. You can easily add a Tibe Tower taming bonus to your taming multiplier by using this formula:
+
+<b>Multiplier + Taming Speed Bonus</b>
+
+So if your multiplier is 2.5, and your Tribe Tower Taming Speed Bonus is 2%, your new multiplier would be 2.55:
+
+<b>2.5 + 2% = 2.55</b>
 
 ---
 
