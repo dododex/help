@@ -6,7 +6,7 @@ category: using-dododex
 
 This guide will show you how to configure your ARK multipliers for various types of servers and game modes. This guide only covers multipliers that affect taming, breeding, and XP rates on Dododex. 
 
-<h2>Official Servers</h2>
+<h2>PC/Console - Official Servers</h2>
 <table class="small">
   <thead>
     <tr>
@@ -67,7 +67,7 @@ On both the app and [Dododex.com](https://www.dododex.com/), you must manually u
 **IMPORTANT:** ARK's Evolution Events don't always the same multipliers. Be sure to check Dododex's live-updating [**Official ARK Server Rates**](https://www.dododex.com/rates)  to confirm the current multipliers on official servers.
 
 
-## Single Player
+## PC/Console - Single Player
 
 _By default, single player on PC and console has "Use Single Player Settings" on. See below for details about Use Single Player Settings._
 
@@ -127,6 +127,15 @@ _By default, single player on PC and console has "Use Single Player Settings" on
   </tbody>
 </table>
 
+## Tribe Tower Bonus
+In Bob's Tall Tales, the Tribe Tower gives you a taming bonus. You can easily add a Tibe Tower taming bonus to your taming multiplier by using this formula:
+
+<b>Multiplier + Taming Speed Bonus</b>
+
+So if your multiplier is 2.5, and your Tribe Tower Taming Speed Bonus is 2%, your new multiplier would be 2.55:
+
+<b>2.5 + 2% = 2.55</b>
+
 ### ARK: Survival Ascended's Difficulty Presets
 ARK: Survival Ascended has difficulty presets that simply select multipliers for you, as seen in the table above. If you want to set everything to 1, click "Restore Defaults." Note that while the "Easy" difficulty increases Taming Speed (dinos require a lower amount of food), it also decreases Food Drain (dinos take longer to get hungry), meaning that overall time required to tame does not necessarily go down. In some cases, Easy takes longer to tame, and in some cases it will be the same, depending on the dino, level, and food. Also note that a longer tame time means more narcotics.
 
@@ -178,14 +187,6 @@ ARK: Survival Ascended has difficulty presets that simply select multipliers for
 
 Single player is not affected by event boosts on ARK Mobile.
 
-## Tribe Tower Bonus
-In Bob's Tall Tales, the Tribe Tower gives you a taming bonus. You can easily add a Tibe Tower taming bonus to your taming multiplier by using this formula:
-
-<b>Multiplier + Taming Speed Bonus</b>
-
-So if your multiplier is 2.5, and your Tribe Tower Taming Speed Bonus is 2%, your new multiplier would be 2.55:
-
-<b>2.5 + 2% = 2.55</b>
 
 ---
 
