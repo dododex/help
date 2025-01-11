@@ -21,7 +21,7 @@ This guide will show you how to configure your ARK multipliers for various types
     <tr>
       <td class="avg">Taming Speed</td>
       <td>1</td>
-      <td>Typically 2 on most weekend events ([**Check current rates**](https://www.dododex.com/rates))</td>
+      <td>Typically 2 on most weekend events (<a href="https://www.dododex.com/rates">Check current rates</a>)</td>
       <td>2.5</td>
       <td>3</td>
     </tr>
