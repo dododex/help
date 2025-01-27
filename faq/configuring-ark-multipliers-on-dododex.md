@@ -130,7 +130,7 @@ _By default, single player on PC and console has "Use Single Player Settings" on
 ## Tribe Tower Bonus
 In Bob's Tall Tales, the Tribe Tower gives you a taming bonus. You can easily add a Tibe Tower taming bonus to your taming multiplier by using this formula:
 
-<b>Multiplier + Taming Speed Bonus</b>
+<b>Taming Multiplier + Tribe Tower Taming Speed Bonus</b>
 
 <div>
    <input type="number" class="whiteinput" id="tamingMultiplier" value="1" size="3" step="any" style="width:4em"> 
@@ -138,10 +138,10 @@ In Bob's Tall Tales, the Tribe Tower gives you a taming bonus. You can easily ad
 </div>
 <div class="marginTopS">
    <input type="number" class="whiteinput" id="tribeBonus" value="20" size="3" step="any" style="width:4em"> %
-   <label for="tribeBonus">Tribe Tower Taming Bonus</label>
+   <label for="tribeBonus">Tribe Tower Taming Speed Bonus</label>
 </div>
 <div class="lightbox output marginTop" id="result">
-   Multiplier to use on Dododex: <span class="action bold" id="newMultiplier">1.2</span>
+   Taming Multiplier to use on Dododex: <span class="action bold" id="newMultiplier">1.2</span>
 </div>
 
 <script>
