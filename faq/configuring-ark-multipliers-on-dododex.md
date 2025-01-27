@@ -133,15 +133,15 @@ In Bob's Tall Tales, the Tribe Tower gives you a taming bonus. You can easily ad
 <b>Multiplier + Taming Speed Bonus</b>
 
 <div>
-   <input type="number" id="tamingMultiplier" value="1" size="3" step="any"> 
+   <input type="number" id="tamingMultiplier" value="1" size="3" step="any" style="width:4em"> 
    <label for="tamingMultiplier">Taming Multiplier</label>
 </div>
 <div>
-   <input type="number" id="tribeBonus" value="20" size="3" step="any"> %
+   <input type="number" id="tribeBonus" value="20" size="3" step="any" style="width:4em"> %
    <label for="tribeBonus">Tribe Tower Taming Bonus</label>
 </div>
-<div class="output" id="result">
-   Multiplier to use on Dododex: <span id="newMultiplier">1.2</span>
+<div class="lightbox output marginTop" id="result">
+   Multiplier to use on Dododex: <span class="action bold" id="newMultiplier">1.2</span>
 </div>
 
 <script>
