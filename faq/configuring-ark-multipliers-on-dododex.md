@@ -132,39 +132,36 @@ In Bob's Tall Tales, the Tribe Tower gives you a taming bonus. You can easily ad
 
 <b>Multiplier + Taming Speed Bonus</b>
 
-So if your multiplier is 2.5, and your Tribe Tower Taming Speed Bonus is 2%, your new multiplier would be 2.55:
+<div>
+   <input type="number" id="tamingMultiplier" value="1" size="3" step="any"> 
+   <label for="tamingMultiplier">Taming Multiplier</label>
+</div>
+<div>
+   <input type="number" id="tribeBonus" value="20" size="3" step="any"> %
+   <label for="tribeBonus">Tribe Tower Taming Bonus</label>
+</div>
+<div class="output" id="result">
+   Multiplier to use on Dododex: <span id="newMultiplier">1.2</span>
+</div>
 
-<b>2.5 + 2% = 2.55</b>
+<script>
+   function calculateNewMultiplier() {
+      const tamingMultiplier = parseFloat(document.getElementById("tamingMultiplier").value) || 0;
+      const tribeBonus = parseFloat(document.getElementById("tribeBonus").value) || 0;
+      
+      const newMultiplier = tamingMultiplier + (tamingMultiplier * (tribeBonus / 100));
+      
+      document.getElementById("newMultiplier").textContent = newMultiplier.toFixed(2);
+   }
 
-	<div>
-		<input type="number" id="tamingMultiplier" value="1" step="any"> 
-		<label for="tamingMultiplier">Taming Multiplier</label>
-	</div>
-	<div>
-		<input type="number" id="tribeBonus" value="20" step="any"> %
-		<label for="tribeBonus">Tribe Tower Taming Bonus</label>
-	</div>
-	<div class="output" id="result">
-		Multiplier to use on Dododex: <span id="newMultiplier">1.2</span>
-	</div>
+   // Add event listeners to inputs
+   document.getElementById("tamingMultiplier").addEventListener("input", calculateNewMultiplier);
+   document.getElementById("tribeBonus").addEventListener("input", calculateNewMultiplier);
 
-	<script>
-		function calculateNewMultiplier() {
-			const tamingMultiplier = parseFloat(document.getElementById("tamingMultiplier").value) || 0;
-			const tribeBonus = parseFloat(document.getElementById("tribeBonus").value) || 0;
-			
-			const newMultiplier = tamingMultiplier + (tamingMultiplier * (tribeBonus / 100));
-			
-			document.getElementById("newMultiplier").textContent = newMultiplier.toFixed(2);
-		}
+   // Initial calculation
+   calculateNewMultiplier();
+</script>
 
-		// Add event listeners to inputs
-		document.getElementById("tamingMultiplier").addEventListener("input", calculateNewMultiplier);
-		document.getElementById("tribeBonus").addEventListener("input", calculateNewMultiplier);
-
-		// Initial calculation
-		calculateNewMultiplier();
-	</script>
 
 
 
