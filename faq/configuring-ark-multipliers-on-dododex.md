@@ -136,6 +136,38 @@ So if your multiplier is 2.5, and your Tribe Tower Taming Speed Bonus is 2%, you
 
 <b>2.5 + 2% = 2.55</b>
 
+	<div>
+		<input type="number" id="tamingMultiplier" value="1" step="any"> 
+		<label for="tamingMultiplier">Taming Multiplier</label>
+	</div>
+	<div>
+		<input type="number" id="tribeBonus" value="20" step="any"> %
+		<label for="tribeBonus">Tribe Tower Taming Bonus</label>
+	</div>
+	<div class="output" id="result">
+		Multiplier to use on Dododex: <span id="newMultiplier">1.2</span>
+	</div>
+
+	<script>
+		function calculateNewMultiplier() {
+			const tamingMultiplier = parseFloat(document.getElementById("tamingMultiplier").value) || 0;
+			const tribeBonus = parseFloat(document.getElementById("tribeBonus").value) || 0;
+			
+			const newMultiplier = tamingMultiplier + (tamingMultiplier * (tribeBonus / 100));
+			
+			document.getElementById("newMultiplier").textContent = newMultiplier.toFixed(2);
+		}
+
+		// Add event listeners to inputs
+		document.getElementById("tamingMultiplier").addEventListener("input", calculateNewMultiplier);
+		document.getElementById("tribeBonus").addEventListener("input", calculateNewMultiplier);
+
+		// Initial calculation
+		calculateNewMultiplier();
+	</script>
+
+
+
 ### ARK: Survival Ascended's Difficulty Presets
 ARK: Survival Ascended has difficulty presets that simply select multipliers for you, as seen in the table above. If you want to set everything to 1, click "Restore Defaults." Note that while the "Easy" difficulty increases Taming Speed (dinos require a lower amount of food), it also decreases Food Drain (dinos take longer to get hungry), meaning that overall time required to tame does not necessarily go down. In some cases, Easy takes longer to tame, and in some cases it will be the same, depending on the dino, level, and food. Also note that a longer tame time means more narcotics.
 
